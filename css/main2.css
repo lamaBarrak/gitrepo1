@@ -1,0 +1,15 @@
+/*
+  Theme Name: EliteCorp
+  Theme Coder: Osama Elzero
+  PSD Designer:
+  FirstColor: #08526d
+  SecondColor: #ec1c23
+*/
+.upper-bar {
+  background-color: #08526d;
+  color: #FFF
+}
+
+.upper-bar .info {
+  margin: 15px 0
+}
